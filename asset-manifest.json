@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/wood-stock-coffee-shop/static/css/main.c4977666.chunk.css",
-    "main.js": "/wood-stock-coffee-shop/static/js/main.9e10699c.chunk.js",
-    "main.js.map": "/wood-stock-coffee-shop/static/js/main.9e10699c.chunk.js.map",
+    "main.css": "/wood-stock-coffee-shop/static/css/main.b2979c7a.chunk.css",
+    "main.js": "/wood-stock-coffee-shop/static/js/main.30de72cc.chunk.js",
+    "main.js.map": "/wood-stock-coffee-shop/static/js/main.30de72cc.chunk.js.map",
     "runtime~main.js": "/wood-stock-coffee-shop/static/js/runtime~main.49030bae.js",
     "runtime~main.js.map": "/wood-stock-coffee-shop/static/js/runtime~main.49030bae.js.map",
     "static/css/2.e76a8b4c.chunk.css": "/wood-stock-coffee-shop/static/css/2.e76a8b4c.chunk.css",
     "static/js/2.49693b52.chunk.js": "/wood-stock-coffee-shop/static/js/2.49693b52.chunk.js",
     "static/js/2.49693b52.chunk.js.map": "/wood-stock-coffee-shop/static/js/2.49693b52.chunk.js.map",
     "index.html": "/wood-stock-coffee-shop/index.html",
-    "precache-manifest.f717b7e0f6d3becbbf722b6950676b34.js": "/wood-stock-coffee-shop/precache-manifest.f717b7e0f6d3becbbf722b6950676b34.js",
+    "precache-manifest.9fc98bea98febd22483e1e95de6bf40e.js": "/wood-stock-coffee-shop/precache-manifest.9fc98bea98febd22483e1e95de6bf40e.js",
     "service-worker.js": "/wood-stock-coffee-shop/service-worker.js",
     "static/css/2.e76a8b4c.chunk.css.map": "/wood-stock-coffee-shop/static/css/2.e76a8b4c.chunk.css.map",
-    "static/css/main.c4977666.chunk.css.map": "/wood-stock-coffee-shop/static/css/main.c4977666.chunk.css.map",
+    "static/css/main.b2979c7a.chunk.css.map": "/wood-stock-coffee-shop/static/css/main.b2979c7a.chunk.css.map",
     "static/media/logo.svg": "/wood-stock-coffee-shop/static/media/logo.5d5d9eef.svg"
   }
 }
