@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95f8738bcb9b0abe217f0473b52bc53e",
+    "revision": "9842db779934a00e03a5dbf716706b17",
     "url": "/wood-stock-coffee-shop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wood-stock-coffee-shop/static/css/2.e76a8b4c.chunk.css"
   },
   {
-    "revision": "422258cb2ec3a987e187",
+    "revision": "d0513736cd9e15e5b547",
     "url": "/wood-stock-coffee-shop/static/css/main.5fb26b12.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wood-stock-coffee-shop/static/js/2.49693b52.chunk.js"
   },
   {
-    "revision": "422258cb2ec3a987e187",
-    "url": "/wood-stock-coffee-shop/static/js/main.26bf09c3.chunk.js"
+    "revision": "d0513736cd9e15e5b547",
+    "url": "/wood-stock-coffee-shop/static/js/main.29a86501.chunk.js"
   },
   {
     "revision": "1650eac54041663f715d",

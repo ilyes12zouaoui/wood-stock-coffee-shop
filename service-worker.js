@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wood-stock-coffee-shop/precache-manifest.d4871a76ea4a3d0f5d519bc31caaef08.js"
+  "/wood-stock-coffee-shop/precache-manifest.bfea435dfac21176b742fa52accc9665.js"
 );
 
 self.addEventListener('message', (event) => {

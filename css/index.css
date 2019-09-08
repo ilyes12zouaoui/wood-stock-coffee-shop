@@ -1,5 +1,5 @@
 .bg-prices {
-  background: url("img/2.jpg");
+  background: url("../img/2.jpg");
   /* background-color: rgba(0, 0, 0, 0.5); */
   /* background-position: center center; */
   background-repeat: no-repeat;
@@ -10,7 +10,7 @@
 }
 
 .bg-footer {
-  background: url("img/7.jpg");
+  background: url("../img/7.jpg");
   background-color: rgba(0, 0, 0, 0);
   background-position: center center;
   background-repeat: no-repeat;
@@ -21,7 +21,7 @@
 }
 
 .bg-welcome {
-  background: url("img/1.jpg");
+  background: url("../img/1.jpg");
   background-color: rgba(0, 0, 0, 0);
   background-position: center center;
   background-repeat: no-repeat;
