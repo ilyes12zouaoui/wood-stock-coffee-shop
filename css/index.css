@@ -6,6 +6,7 @@
   background-size: cover !important;
   position: relative;
 
+  background-attachment: fixed;
   z-index: 0;
 }
 .bg-3 {
